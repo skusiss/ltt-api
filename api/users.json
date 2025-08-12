@@ -4,7 +4,7 @@
     "firstName": "Sanjeet",
     "lastname": "Singh",
     "initials": "ss",
-    "avatar":"",
+    "userImg":"",
     "email": "skusiss@gmail.com",
     "password": "sk@1234"
   },
@@ -13,7 +13,7 @@
     "firstName": "Jaya",
     "lastname": "Kumari",
     "initials": "jk",
-    "avatar":"https://images.pexels.com/photos/5500738/pexels-photo-5500738.jpeg",
+    "userImg":"https://images.pexels.com/photos/5500738/pexels-photo-5500738.jpeg",
     "email": "jaysiyaramsingh475@gmail.com",
     "password": "sk@1234"
   },
@@ -22,7 +22,7 @@
     "firstName": "SK",
     "lastname": "Kumar",
     "initials": "sk",
-    "avatar":"https://images.pexels.com/photos/27897903/pexels-photo-27897903.jpeg",
+    "userImg":"https://images.pexels.com/photos/27897903/pexels-photo-27897903.jpeg",
     "email": "skusissmorni@gmail.com",
     "password": "sk@1234"
   }
