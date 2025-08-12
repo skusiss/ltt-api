@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "category":"General",
+    "title": "How can I travel without having a lot of money?",
+    "content": "Have a budget and prioritize your spending. <strong>Plan ahead of time</strong>. Flight deals are typically more expensive when the dates get closer. Ditch your bucket list. To travel affordably, you need to be flexible."
+  },
+  {
+    "id": 2,
+    "category":"Payments",
+    "title": "Is there a surcharge when paying by credit card?",
+    "content": "No surcharges apply when paying for your trip with a credit card, but depending on your location, there may be restrictions on which card you can use."
+  },
+  {
+    "id": 3,
+    "category":"General",
+    "title": "How do I book extra nights of accommodation?",
+    "content": "If you'd like to arrive at your joining point hotel early or stick around post-tour to explore, <strong>contact us</strong>, and we can help you book extra nights of accommodation.</p>"
+  },
+  {
+    "id": 4,
+    "category":"General",
+    "title": "Who would be my co-travellers?",
+    "content": "Your co-traveller may be an individual of any profession, religion, language, or nationality. When you return from your dream holiday, we assure you that there will be additions to your friends list."
+  },
+  {
+    "id": 5,
+    "category":"Payments",
+    "title": "Why do you take full payment when I book a trip?",
+    "content": "The reason we request full payment for some trips is that we need to confirm each part of your adventure with our local operators and suppliers as we go (e.g. on-tour transport, activities and accommodation). If your place on the trip is unavailable, we'll provide you with a full refund."
+  },
+  {
+    "id": 6,
+    "category":"Destinations",
+    "title": "Why Malaysia?",
+    "content": "<p>A hugely diverse country, Malaysia is a hidden gem in Southeast Asia that is rich with culture, wildlife, and activities. It's a country where you can experience the beauty of tropical islands, enjoy the glitz of big city lights, come eye to eye with endangered species, wake up to the sounds of the rainforest, and feel like a local being invited into homes with open arms. Malaysia is one place that probably isn't on your bucket list, but it should be.</p><p>My (Annie's) first encounter with Malaysia was when I visited my father's childhood home in a small town on the island of Borneo. This wondrous place had so many new sights, smells, and sounds. Throughout my journey, I developed lasting friendships with locals who were so proud to teach me about their homeland. And we're all still friends...so you can trust that you'll be in good hands when you visit!</p>"
+  },
+  {
+    "id": 7,
+    "category":"Destinations",
+    "title": "Why Italy?",
+    "content": "<p>The people have spoken! Italy was chosen by popular vote as a dream destination for discovering food culture, and we couldn't agree more. We visit regions where so many well-known foods originated such as Parmigiano-Reggiano cheese, pizza, prosciutto, limoncello, and of course many wineries. We'll lead you to some undiscovered treasures and you'll feel like a local getting into making fresh pasta and visiting local farms.  We have two Italy trips!</p>"
+  },
+  {
+    "id": 8,
+    "category":"Trip",
+    "title": "What should I pack?",
+    "content": "<p>Prior to your trip you will receive an extensive suggested packing list. It varies significantly based on your destination and season of travel. We recommend that you pack as lightly as possible and leave room in your suitcase for gifts or souvenirs. Many travelers complain about not having enough space on their way home.</p>"
+  },
+  {
+    "id": 9,
+    "category":"Trip",
+    "title": "Do I need travel protection",
+    "content": "<p>YES! Travel protection is extremely important and we recommend that all travelers procure their own medical insurance, travel protection, and trip cancellation or interruption protection that is suitable for the risk they are willing to assume.</p>"
+  },
+  {
+    "id": 10,
+    "category":"Booking",
+    "title": "What is an on request trip?",
+    "content": "<p>If you book a trip that is <strong>on request</strong>, it means we can't confirm your booking immediately as we need to check if space is available with our local operators.</p><p>Full payment is required for on request trips because our local operations team confirms various services, such as on-tour transport and accommodation, as they go. If space is available, you'll be booked. If not, we'll provide you with a full refund.</p><p>If you have selected an on request trip, we’ll email you with an update in 2 to 4 business days. Please don't book any non-refundable travel arrangements until you get confirmation.</p>"
+  },
+  {
+    "id": 11,
+    "category":"General",
+    "title": "When traveling, what are the costs I should be aware of?",
+    "content": "<ul><li>Transportation (Flight, Boat, Car/Bus, etc.)</li><li>Feeding</li><li>Accommodation</li><li>Visa fees (if applicable)</li><li>Cost of tours and/or activities</li></ul>"
+  }
+]
