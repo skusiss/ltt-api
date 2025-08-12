@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Palak Bhatia",
+    "star": 5,
+    "image": "https://images.pexels.com/photos/2586339/pexels-photo-2586339.jpeg",
+    "caption": "Amazing nile cruise with amazing organization",
+    "content": "<p>organized my trip as a nile cruise from Luxor to Aswan. The trip was fantastic, the organization was perfect. All the family really loved it.</p><p>I was handled by Miss Maya, she was super cooperative, very professional, very responsive even during the official holidays, we are very grateful to her.</p>"
+  },
+  {
+    "id": 2,
+    "name": "Rama Sundran",
+    "star": 4,
+    "caption": "Great experience & highly recommended!",
+    "image": "https://images.pexels.com/photos/30549063/pexels-photo-30549063.jpeg",
+    "content": "<p>We had planned a Singapore trip with LivetoTravel. It was wonderfully well planned trip visited almost all the places yet it was not too tiring nor too idle because we just had the best 'Trip designer' with us. </p><p>Loved the experience of our first foreign trip and the credit goes to LivetoTravel team and also trip was also not too heavy on the wallet. Thank you.</p>"
+  },
+  {
+    "id": 3,
+    "name": "Kalley kattie",
+    "star": 4,
+    "caption": "",
+    "image": "https://images.pexels.com/photos/28411659/pexels-photo-28411659.jpeg",
+    "content": "<p>We had planned a Singapore trip with LivetoTravel. It was wonderfully well planned trip visited almost all the places yet it was not too tiring nor too idle because we just had the best 'Trip designer' with us. </p><p>Loved the experience of our first foreign trip and the credit goes to LivetoTravel team and also trip was also not too heavy on the wallet. Thank you.</p>"
+  },
+  {
+    "id": 5,
+    "name": "Vishbu Bhargav",
+    "star": 5,
+    "caption": "Easy booking process",
+    "image": "https://images.pexels.com/photos/15019490/pexels-photo-15019490.jpeg",
+    "content": "<p>We had planned a Singapore trip with LivetoTravel. It was wonderfully well planned trip visited almost all the places yet it was not too tiring nor too idle because we just had the best 'Trip designer' with us. </p><p>Loved the experience of our first foreign trip and the credit goes to LivetoTravel team and also trip was also not too heavy on the wallet. Thank you.</p>"
+  },
+  {
+    "id": 6,
+    "name": "Danielle Jackson",
+    "star": 5,
+    "caption": "Very professional!",
+    "image": "https://images.pexels.com/photos/5691039/pexels-photo-5691039.jpeg",
+    "content": "<p>We had planned a Singapore trip with LivetoTravel. It was wonderfully well planned trip visited almost all the places yet it was not too tiring nor too idle because we just had the best 'Trip designer' with us. </p><p>Loved the experience of our first foreign trip and the credit goes to LivetoTravel team and also trip was also not too heavy on the wallet. Thank you.</p>"
+  },
+  {
+    "id": 7,
+    "name": "Phubai Solemona",
+    "star": 4,
+    "caption": "",
+    "image": "https://images.pexels.com/photos/10046798/pexels-photo-10046798.jpeg",
+    "content": "<p>We had planned a Singapore trip with LivetoTravel. It was wonderfully well planned trip visited almost all the places yet it was not too tiring nor too idle because we just had the best 'Trip designer' with us. </p><p>Loved the experience of our first foreign trip and the credit goes to LivetoTravel team and also trip was also not too heavy on the wallet. Thank you.</p>"
+  },
+  {
+    "id": 8,
+    "name": "Marina Gutkin",
+    "star": 5,
+    "caption": "Experience of a Lifetime",
+    "image": "https://images.pexels.com/photos/8219320/pexels-photo-8219320.jpeg",
+    "content":"Thank you Saniya for giving us the opportunity to see Bali and resort. You are the best travel consultant we have ever had. Thank you for your service and professionalism."
+  },
+  {
+    "id": 9,
+    "name": "Carin Benne",
+    "star": 5,
+    "caption": "Fantastic holiday, excellently planned",
+    "image": "https://images.pexels.com/photos/9489925/pexels-photo-9489925.jpeg",
+    "content": "<p>Highly recommend using Livetotravel. Great deals on offer. Great service. Everything is planned for you. Will continue to use this company!</p>"
+  },
+  {
+    "id": 10,
+    "name": "Susan Starr",
+    "star": 4,
+    "caption": "A diverse and experiential tour!",
+    "image": "https://images.pexels.com/photos/2531553/pexels-photo-2531553.jpeg",
+    "content": "<p> Saniya is so great. She was very helpful when it came to suggesting another resort, as the one I originally wanted was not available for my travel dates. I am very happy that she suggested the Nasama Resort it was perfect. Nicole was always very prompt in answering my queries and she made the perfect booking for us.</p>"
+  },
+  {
+    "id": 11,
+    "name": "Sammer Sharma",
+    "star": 5,
+    "caption": "Memorable Experience",
+    "image": "https://images.pexels.com/photos/16505496/pexels-photo-16505496.jpeg",
+    "content": "<p>Personal friendly service from our travel consultants who always replied promptly to queries either by email or phone. Very efficient and reassuring when our flight was delayed by a day. Good follow up. Thank you LTT</p>"
+  }
+]
