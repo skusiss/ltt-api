@@ -1,11 +1,11 @@
 [
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg1.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg2.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg3.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg4.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg5.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg6.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg7.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg8.webp" },
-  { "image": "https://github.com/skusiss/ltt-api/blob/main/assets/images/travellers/tsqimg9.webp" }
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg1.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg2.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg3.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg4.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg5.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg6.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg7.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg8.webp" },
+  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/travellers//tsqimg9.webp" }
 ]
