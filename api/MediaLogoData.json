@@ -3,36 +3,36 @@
     "id": 1,
     "slug":"zee_news",
     "name":"zee news",
-    "image": "https://cdn6.aptoide.com/imgs/f/1/c/f1c6206af4c9fd2c409eae6d61a77607_fgraphic.png"
+    "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/zee-news.webp"
   },
   {
     "id": 2,
     "slug":"news_18",
     "name":"News 18",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png"
+    "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/news-india-18.webp"
   },
   {
     "id": 3,
     "slug":"toi",
     "name":"TOI",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQps8ve-lA2zYqKa6DA_-em5XLdgScm0h24Q&s"
+    "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/toi.webp"
   },
   {
     "id": 4,
     "slug":"hello_enterpreneurs",
     "name":"hello enterpreneurs",
-    "image": "https://media.licdn.com/dms/image/v2/C560BAQGvZ2dI-3ES8g/company-logo_200_200/company-logo_200_200/0/1645686000159?e=2147483647&v=beta&t=GNG6hXj-6Etk8VoqyFPXHMVKBQ6zikFmDqn2j0HErI8"
+    "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/hello_enterpreneurs.webp"
   },
   {
     "id": 5,
     "slug":"indulge",
     "name":"indulge",
-    "image": "https://media.licdn.com/dms/image/v2/C560BAQGvZ2dI-3ES8g/company-logo_200_200/company-logo_200_200/0/1645686000159?e=2147483647&v=beta&t=GNG6hXj-6Etk8VoqyFPXHMVKBQ6zikFmDqn2j0HErI8"
+    "image": "hhttps://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/indulge.webp"
   },
   {
     "id": 6,
     "slug":"startupindia",
     "name":"startupindia",
-    "image": "https://omrook.com/images/blog/StatupIndiaLogo.jpg?1699198196153"
+    "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/startupindia.webp"
   }
 ]
