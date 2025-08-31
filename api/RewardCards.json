@@ -9,12 +9,12 @@
     "id": 2,
     "title": "Wayfarer",
     "caption": "Achieve an automatic upgrade to Tier 2 upon successfully completing 7 trips with us.",
-    "userImg": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-wayfarer.webp"
+    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-wayfarer.webp"
   },
   {
     "id": 3,
     "title": "Connoisseur",
     "caption": "You’ll unlock a world of exclusive rewards upon successfully completing 11 trips with us.",
-    "userImg": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-connoisseur.webp"
+    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-connoisseur.webp"
   }
 ]
