@@ -2,20 +2,19 @@
   {
     "id": 1,
     "title": "Travelholic",
-	"caption":"Upon successfully completing 3 trips with us, you'll be automatically enrolled in Tier 1",
-    "img":"https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp",
+    "caption": "Upon successfully completing 3 trips with us, you'll be automatically enrolled in Tier 1",
+    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp"
   },
   {
     "id": 2,
     "title": "Wayfarer",
-	"caption":"Achieve an automatic upgrade to Tier 2 upon successfully completing 7 trips with us.",
-    "userImg":"https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-wayfarer.webp",
+    "caption": "Achieve an automatic upgrade to Tier 2 upon successfully completing 7 trips with us.",
+    "userImg": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-wayfarer.webp"
   },
   {
     "id": 3,
     "title": "Connoisseur",
-	"caption":"You’ll unlock a world of exclusive rewards upon successfully completing 11 trips with us.",
-    "userImg":"https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-connoisseur.webp",
+    "caption": "You’ll unlock a world of exclusive rewards upon successfully completing 11 trips with us.",
+    "userImg": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-connoisseur.webp"
   }
 ]
-
