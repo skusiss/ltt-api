@@ -9,7 +9,7 @@
 			"title":"Bali",
 			"caption": "Escape from the hustle & bustle of your life today.",
 			"sourceType":"video",
-			"source": "https://www.pexels.com/download/video/2949519/"
+			"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/bali-trip-month.mp4"
 		},
 		{
 			"id":12,
@@ -23,7 +23,7 @@
 			"title":"Maldives",
 			"caption": "Explore Maldives packages with luxury amenities, stunning views.",
 			"sourceType":"video",
-			"source": "https://www.pexels.com/download/video/4069480/"
+			"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/maldives-trip-month.mp4"
 		}
 	]
   },
@@ -44,7 +44,7 @@
 			"title":"Australia",
 			"caption": "February is summer in Australia, perfect for exploring its stunning landscapes.",
 			"sourceType":"video",
-			"source": "https://www.pexels.com/download/video/5739695/"
+			"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/australia-trip-monts.mp4"
 		},
 		{
 			"id":23,
