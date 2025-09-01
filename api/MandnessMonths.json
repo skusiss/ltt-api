@@ -9,21 +9,21 @@
 			"title":"Bali",
 			"caption": "Escape from the hustle & bustle of your life today.",
 			"sourceType":"video",
-			"source": "https://www.pexels.com/download/video/13449429/"
+			"source": "https://www.pexels.com/download/video/2949519/"
 		},
 		{
 			"id":12,
 			"title":"singapore",
 			"caption": "currently offers over 50 tour packages to Singapore.",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/18787544/pexels-photo-18787544.jpeg"
+			"source": "https://images.pexels.com/photos/777059/pexels-photo-777059.jpeg"
 		},
 		{
 			"id":13,
 			"title":"Maldives",
 			"caption": "Explore Maldives packages with luxury amenities, stunning views.",
 			"sourceType":"video",
-			"source": "https://www.pexels.com/download/video/30706634/"
+			"source": "https://www.pexels.com/download/video/4069480/"
 		}
 	]
   },
@@ -37,14 +37,14 @@
 			"title":"New Zealand",
 			"caption": "The southern hemisphere's summer offers unique adventure opportunities.",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/33686040/pexels-photo-33686040.jpeg"
+			"source": "https://images.pexels.com/photos/33700749/pexels-photo-33700749.jpeg"
 		},
 		{
 			"id":22,
 			"title":"Australia",
 			"caption": "February is summer in Australia, perfect for exploring its stunning landscapes.",
 			"sourceType":"video",
-			"source": "https://www.pexels.com/download/video/31925517/"
+			"source": "https://www.pexels.com/download/video/5739695/"
 		},
 		{
 			"id":23,
@@ -79,7 +79,7 @@
 			"title":"Dubai, UAE",
 			"caption": "A blend of modern luxury and traditional culture, with comfortable temperatures for exploration.",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/1534411/pexels-photo-1534411.jpeg"
+			"source": "https://images.pexels.com/photos/13948541/pexels-photo-13948541.jpeg"
 		}
 	]
   },
@@ -93,21 +93,21 @@
 			"title":"Amsterdam",
 			"caption": "Tulips in April, creating stunning, colourful landscapes",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/33641288/pexels-photo-33641288.jpeg"
+			"source": "https://images.pexels.com/photos/16715948/pexels-photo-16715948.jpeg"
 		},
 		{
 			"id":42,
 			"title":"Bhutan",
 			"caption": "Delight in the country's unique culture, beautiful landscapes, and potential festivals.",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/9163027/pexels-photo-9163027.jpeg"
+			"source": "https://images.pexels.com/photos/30111933/pexels-photo-30111933.jpeg"
 		},
 		{
 			"id":43,
 			"title":"Thailand",
 			"caption": "A fantastic time to enjoy the tropical beauty of places",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/3393546/pexels-photo-3393546.jpeg"
+			"source": "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg"
 		}
 	]
   },
@@ -121,21 +121,21 @@
 			"title":"South Africa",
 			"caption": "A great choice for wildlife safaris and diverse landscapes.",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/33625406/pexels-photo-33625406.jpeg"
+			"source": "https://images.pexels.com/photos/33673362/pexels-photo-33673362.jpeg"
 		},
 		{
 			"id":52,
 			"title":"Sri Lanka",
 			"caption": "Visit the 'Pearl of the Indian Ocean' for its natural beauty and historical sites. ",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/57457/parade-local-trumpet-musician-ritual-57457.jpeg"
+			"source": "https://images.pexels.com/photos/1998439/pexels-photo-1998439.jpeg"
 		},
 		{
 			"id":53,
 			"title":"Switzerland",
 			"caption": "Ideal for scenic views with its sophisticated cities, lakes, and museums.",
 			"sourceType":"image",
-			"source": "https://images.pexels.com/photos/723180/pexels-photo-723180.jpeg"
+			"source": "https://images.pexels.com/photos/723177/pexels-photo-723177.jpeg"
 		}
 	]
   }
