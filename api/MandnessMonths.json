@@ -2,7 +2,7 @@
   {
     "id": 1,
     "month": "January",
-    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp",
+    "img": "https://images.pexels.com/photos/1654748/pexels-photo-1654748.jpeg",
 	"locations":[
 		{
 			"id":11,
@@ -30,7 +30,7 @@
   {
     "id": 2,
     "month": "February",
-    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp",
+    "img": "https://images.pexels.com/photos/17044910/pexels-photo-17044910.jpeg",
 	"locations":[
 		{
 			"id":21,
@@ -58,7 +58,7 @@
   {
     "id": 3,
     "month": "March",
-    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp",
+    "img": "https://images.pexels.com/photos/16077079/pexels-photo-16077079.jpeg",
 	"locations":[
 		{
 			"id":31,
@@ -86,7 +86,7 @@
   {
     "id": 4,
     "month": "April",
-    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp",
+    "img": "https://images.pexels.com/photos/1636500/pexels-photo-1636500.jpeg",
 	"locations":[
 		{
 			"id":41,
@@ -114,7 +114,7 @@
   {
     "id": 5,
     "month": "May",
-    "img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/reward/card-travelholic.webp",
+    "img": "https://images.pexels.com/photos/2098848/pexels-photo-2098848.jpeg",
 	"locations":[
 		{
 			"id":51,
