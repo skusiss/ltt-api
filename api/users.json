@@ -9,7 +9,8 @@
 	"mobileNumber":"9560246999",
 	"hasMobile":true,
     "email": "skusiss@gmail.com",
-    "password": "sk@1234"
+    "password": "sk@1234",
+	"tier": 2
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
 	"mobileNumber":"9560246999",
 	"hasMobile":false,
     "email": "jaysiyaramsingh475@gmail.com",
-    "password": "sk@1234"
+    "password": "sk@1234",
+	"tier": 1
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
 	"mobileNumber":"9560246999",
 	"hasMobile":false,
     "email": "skusissmorni@gmail.com",
-    "password": "sk@1234"
+    "password": "sk@1234",
+	"tier": 3
   }
 
 ]
