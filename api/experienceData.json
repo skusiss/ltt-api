@@ -3,15 +3,15 @@
         "id": 1,
         "title": "Safari",
         "caption": "Go on an exhilarating journey through wildlife reserves.",
-        "sourceType":"image",
-		"source": "https://images.pexels.com/photos/28490608/pexels-photo-28490608.jpeg"
+        "sourceType":"video",
+		"source": "https://www.pexels.com/download/video/19953762/"
     },
 	{
         "id": 2,
         "title": "Cruise",
         "caption": "Combining luxurious accommodations with the opportunity to explore multiple destinations.",
-        "sourceType":"image",
-		"source": "https://images.pexels.com/photos/8183998/pexels-photo-8183998.jpeg"
+        "sourceType":"video",
+		"source": "https://www.pexels.com/download/video/33772526/"
     },
 	{
         "id": 3,
