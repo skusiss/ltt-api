@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "Safari",
-        "caption": "Go on an exhilarating journey through wildlife reserves.",
+        "title": "Cruise",
+        "caption": "Combining luxurious accommodations with the opportunity to explore multiple destinations.",
         "sourceType":"video",
 		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/cruise-dolphin.mp4"
     },
 	{
         "id": 2,
-        "title": "Cruise",
-        "caption": "Combining luxurious accommodations with the opportunity to explore multiple destinations.",
+        "title": "Safari",
+        "caption": "Go on an exhilarating journey through wildlife reserves.",
         "sourceType":"video",
 		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/safari-trip.mp4"
     },
