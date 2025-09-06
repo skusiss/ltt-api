@@ -22,7 +22,7 @@ const strings = {
   contactHead1: 'Coffee with us',
   contactHead2: "We're happy to host you!",
   contactBtn: 'Get in touch',
-  phoneNumber: '+917217860321',
+  phoneNumber: '+919818371449',
   callDialogHead1: 'Confirm call',
   callDialogHead2: 'Do you want to call',
   callErrorMessage:"Phone call not supported on this device",

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "title": "Safari",
+        "caption": "Go on an exhilarating journey through wildlife reserves.",
+        "sourceType":"image",
+		"source": "https://images.pexels.com/photos/28490608/pexels-photo-28490608.jpeg"
+    },
+	{
+        "id": "02",
+        "title": "Cruise",
+        "caption": "Combining luxurious accommodations with the opportunity to explore multiple destinations.",
+        "sourceType":"image",
+		"source": "https://images.pexels.com/photos/8183998/pexels-photo-8183998.jpeg"
+    },
+	{
+        "id": "03",
+        "title": "Private Jet",
+        "caption": "Exclusive and luxurious travel experience",
+        "sourceType":"image",
+		"source": "https://images.pexels.com/photos/5778614/pexels-photo-5778614.jpeg"
+    },
+	{
+        "id": "04",
+        "title": "Tailored Packages",
+        "caption": "Luxury travel solutions customized to fit your desires & budget.",
+        "sourceType":"image",
+		"source": "https://images.pexels.com/photos/7235813/pexels-photo-7235813.jpeg"
+    },
+	{
+        "id": "05",
+        "title": "Consultations",
+        "caption": "Exclusive travel itinerary for your vacation",
+        "sourceType":"image",
+		"source": "https://images.pexels.com/photos/16053085/pexels-photo-16053085.jpeg"
+    },
+	{
+        "id": "06",
+        "title": "Gift Vouchers",
+        "caption": "Gift your loved ones the best time of their lifetime",
+        "sourceType":"image",
+		"source": "https://images.pexels.com/photos/4068013/pexels-photo-4068013.jpeg"
+    },
+]
