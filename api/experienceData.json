@@ -4,14 +4,14 @@
         "title": "Safari",
         "caption": "Go on an exhilarating journey through wildlife reserves.",
         "sourceType":"video",
-		"source": "https://www.pexels.com/download/video/19953762/"
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/cruise-dolphin.mp4"
     },
 	{
         "id": 2,
         "title": "Cruise",
         "caption": "Combining luxurious accommodations with the opportunity to explore multiple destinations.",
         "sourceType":"video",
-		"source": "https://www.pexels.com/download/video/33772526/"
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/safari-trip.mp4"
     },
 	{
         "id": 3,
