@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "title": "Relax in Maldives",
+    "caption": "Maafushi, Dhigurah, and Kandooma are great destinations for a short 4d/3n Maldives vacation.",
+    "startDate": "2025-08-21T20:20:00+05:30",
+    "endDate": "2025-08-24T11:44:00+05:30",
+    "sourceType": "image",
+    "sourceMedia": "https://images.pexels.com/photos/6103970/pexels-photo-6103970.jpeg",
+    "days": [
+      {
+        "id": "day-1",
+        "title": "Departure for IGI New Delhi",
+        "description": "Welcome to the city, check-in at hotel and freshen up.",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/18567617/pexels-photo-18567617.jpeg",
+        "timeLine": [
+          {
+            "id": "day1_tl01",
+            "location": [
+              {
+                "id": "delhi_india",
+                "country": "India",
+                "city": "New Delhi",
+                "image": "https://images.pexels.com/photos/14904691/pexels-photo-14904691.jpeg"
+              }
+            ],
+            "title": "Pickup and transfter to IGI Airport",
+            "description": "Booked cab to pick you up from your location and transfer you to the airport in New Delhi",
+            "dateTime": "2025-08-21T16:35:00+05:30",
+            "note": "useual security and check-in process up to 1 hr"
+          },
+          {
+            "id": "day1_tl02",
+            "location": [
+              {
+                "id": "delhi_india",
+                "country": "India",
+                "city": "New Delhi",
+                "image": "https://images.pexels.com/photos/14904691/pexels-photo-14904691.jpeg"
+              }
+            ],
+            "title": "Take off from IGI Airport",
+            "description": "Reach out to our team in Terminal 3 by: - Heading to our ticketing office inside departure gate 1.",
+            "dateTime": "2025-08-21T20:20:00+05:30",
+            "note": "The underground Terminal 1-IGI Airport station is just a 5-7 minute walk (300-400 m via a covered subway with travelators)"
+          }
+        ]
+      },
+      {
+        "id": "day-2",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg",
+        "timeLine": [
+          {
+            "id": "day2_tl01",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://images.pexels.com/photos/6195579/pexels-photo-6195579.jpeg"
+              }
+            ],
+            "title": "Bali Airport",
+            "description": "Pick up at the airport and drop to Hotel",
+            "dateTime": "2025-08-22T4:30:00+05:30",
+            "note": ""
+          },
+          {
+            "id": "day2_tl02",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://images.pexels.com/photos/12639807/pexels-photo-12639807.jpeg"
+              }
+            ],
+            "title": "Hotel Check-in",
+            "description": "The Inna Grand Bali Beach is the Queen of Hotels in Bali.",
+            "dateTime": "2025-08-22T5:10:00+05:30",
+            "note": ""
+          },
+          {
+            "id": "day2_tl03",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://images.pexels.com/photos/14334748/pexels-photo-14334748.jpeg"
+              }
+            ],
+            "title": "Pick up at Hotel",
+            "description": "Visit Ubud Sanctuary Monkey Forest",
+            "dateTime": "2025-08-22T9:00:00+05:30",
+            "note": ""
+          },
+          {
+            "id": "day2_tl03",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://images.pexels.com/photos/2325302/pexels-photo-2325302.jpeg"
+              }
+            ],
+            "title": "Breakfast and Coffee",
+            "description": "Break for herbal tea and try luwak coffee as the most expensive coffee that is made from civet cat feces",
+            "dateTime": "2025-08-22T10:00:00+05:30",
+            "note": "Swing activity is also available here"
+          },
+          {
+            "id": "day2_tl04",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://images.pexels.com/photos/2325302/pexels-photo-2325302.jpeg"
+              }
+            ],
+            "title": "Trekking",
+            "description": "Trekking at Tegalalang  Rice Terrace",
+            "dateTime": "2025-08-22T11:30:00+05:30",
+            "note": "This spot is the best for photography."
+          },
+          {
+            "id": "day2_tl05",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://images.pexels.com/photos/12061487/pexels-photo-12061487.jpeg"
+              }
+            ],
+            "title": "Lunch at Kintamani Slop Cafe",
+            "description": "enjoying the breathtaking view of Batur Volcano caldera and the lake",
+            "dateTime": "2025-08-22T11:30:00+05:30",
+            "note": ""
+          }
+        ]
+      }
+    ]
+  }
+]
