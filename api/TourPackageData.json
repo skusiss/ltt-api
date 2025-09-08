@@ -6,14 +6,14 @@
     "startDate": "2025-08-21T20:20:00+05:30",
     "endDate": "2025-08-24T11:44:00+05:30",
     "sourceType": "image",
-    "sourceMedia": "https://images.pexels.com/photos/6103970/pexels-photo-6103970.jpeg",
+    "source": "https://images.pexels.com/photos/6103970/pexels-photo-6103970.jpeg",
     "days": [
       {
         "id": "day-1",
         "title": "Departure for IGI New Delhi",
         "description": "Welcome to the city, check-in at hotel and freshen up.",
         "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/18567617/pexels-photo-18567617.jpeg",
+        "source": "https://images.pexels.com/photos/18567617/pexels-photo-18567617.jpeg",
         "timeLine": [
           {
             "id": "day1_tl01",
