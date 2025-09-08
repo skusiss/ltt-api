@@ -4,8 +4,8 @@
 	"status":"upcoming",
     "title": "Experience a luxury break in Dubai",
     "caption": "Explore the dazzling modern marvels and rich cultural heritage of Dubai, from the iconic Burj Khalifa and Dubai Mall to the traditional charm",
-    "startDate": "2025-010-12T20:20:00+05:30",
-    "endDate": "2025-08-16T14:37:00+05:30",
+    "startDate": "2025-10-12T20:20:00+05:30",
+    "endDate": "2025-10-16T14:37:00+05:30",
     "sourceType": "video",
     "source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/mytrip-dubai.mp4",
     "days": [
