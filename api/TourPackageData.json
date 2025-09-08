@@ -6,15 +6,15 @@
     "caption": "Explore the dazzling modern marvels and rich cultural heritage of Dubai, from the iconic Burj Khalifa and Dubai Mall to the traditional charm",
     "startDate": "2025-010-12T20:20:00+05:30",
     "endDate": "2025-08-16T14:37:00+05:30",
-    "sourceType": "image",
-    "source": "https://images.pexels.com/photos/16830303/pexels-photo-16830303.jpeg",
+    "sourceType": "video",
+    "source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/mytrip-dubai.mp4",
     "days": [
       {
         "id": "day-1",
         "title": "Departure for IGI New Delhi",
         "description": "Welcome to the city, check-in at hotel and freshen up.",
         "sourceType": "image",
-        "source": "https://images.pexels.com/photos/18567617/pexels-photo-18567617.jpeg",
+        "source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/mytrip-dubai22.mp4",
         "timeLine": [
           {
             "id": "day1_tl01",
@@ -158,7 +158,7 @@
     "startDate": "2025-08-21T20:20:00+05:30",
     "endDate": "2025-08-24T11:44:00+05:30",
     "sourceType": "video",
-    "source": "https://www.pexels.com/download/video/5512952/",
+    "source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/mytrip-singapore.mp4",
     "days": [
       {
         "id": "day-1",
