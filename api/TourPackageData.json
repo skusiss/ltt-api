@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+	"status":"upcoming",
     "title": "Experience a luxury break in Dubai",
     "caption": "Explore the dazzling modern marvels and rich cultural heritage of Dubai, from the iconic Burj Khalifa and Dubai Mall to the traditional charm",
     "startDate": "2025-010-12T20:20:00+05:30",
@@ -49,6 +50,7 @@
       },
       {
         "id": "day-2",
+		
         "title": "Welcome in Dubai",
         "description": "Dubai International Airport",
         "sourceType": "image",
@@ -150,6 +152,7 @@
   },
   {
     "id": 2,
+	"status":"current",
     "title": "Singapore",
     "caption": "Explore the diverse attractions of Singapore, immersing yourself in its vibrant culture, lush greenery, and exciting theme parks.",
     "startDate": "2025-08-21T20:20:00+05:30",
@@ -299,6 +302,7 @@
   },
   {
     "id": 3,
+	"status":"done",
     "title": "Relax in Maldives",
     "caption": "Maafushi, Dhigurah, and Kandooma are great destinations for a short 4d/3n Maldives vacation.",
     "startDate": "2025-08-21T20:20:00+05:30",
