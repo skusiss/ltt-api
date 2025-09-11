@@ -201,10 +201,10 @@
       },
       {
         "id": "day-2",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Singapore Changi Airport",
+        "title": "Universal Studio Time!!!!!",
+        "description": "Today enjoy a day at Universal Studio where one can enjoy meet and interact with many movie characters, talk with a donkey, enjoy Shrek 4D adventures, enjoy action at Jurassic Park, thrilling rides, entertainment shows. Later you will be dropped back to your hotel. Overnight at Singapore.",
         "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg",
+        "sourceMedia": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/singapore-universal-studios.mp4",
         "timeLine": [
           {
             "id": "day2_tl01",
@@ -212,13 +212,13 @@
               {
                 "id": "bali_indonesia",
                 "country": "Indonesia",
-                "city": "Bali",
+                "city": "Singapore",
                 "image": "https://images.pexels.com/photos/6195579/pexels-photo-6195579.jpeg"
               }
             ],
-            "title": "Bali Airport",
-            "description": "Pick up at the airport and drop to Hotel",
-            "dateTime": "2025-08-22T4:30:00+05:30",
+            "title": "Breakfast at kopitiam",
+            "description": "Start your day at a kopitiam (coffee shop) for some kaya toast and kopi (coffee).",
+            "dateTime": "2025-08-22T9:30:00+05:30",
             "note": ""
           },
           {
@@ -228,12 +228,12 @@
                 "id": "bali_indonesia",
                 "country": "Indonesia",
                 "city": "Bali",
-                "image": "https://images.pexels.com/photos/12639807/pexels-photo-12639807.jpeg"
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/rain-vortex-waterfall.webp"
               }
             ],
-            "title": "Hotel Check-in",
-            "description": "The Inna Grand Bali Beach is the Queen of Hotels in Bali.",
-            "dateTime": "2025-08-22T5:10:00+05:30",
+            "title": "Rain Vortex Waterfall",
+            "description": "Your first sightseeing experience—the Rain Vortex. It is the largest indoor waterfall in the world at 7 stories, and it is definitely something you should not miss while in Singapore.",
+            "dateTime": "2025-08-22T5:11:00+05:30",
             "note": ""
           },
           {
@@ -366,7 +366,7 @@
                 "image": "https://images.pexels.com/photos/6195579/pexels-photo-6195579.jpeg"
               }
             ],
-            "title": "Bali Airport",
+            "title": "Arrive at Bali Airport",
             "description": "Pick up at the airport and drop to Hotel",
             "dateTime": "2025-08-22T4:30:00+05:30",
             "note": ""
@@ -381,7 +381,7 @@
                 "image": "https://images.pexels.com/photos/12639807/pexels-photo-12639807.jpeg"
               }
             ],
-            "title": "Hotel Check-in",
+            "title": "Transfer to the hotel",
             "description": "The Inna Grand Bali Beach is the Queen of Hotels in Bali.",
             "dateTime": "2025-08-22T5:10:00+05:30",
             "note": ""
