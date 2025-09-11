@@ -450,45 +450,24 @@
       },
 	  {
         "id": "day-3",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Ngurah Rai International Airport",
+        "title": "Beratan Lake, Ulundanu Temple and Tanah Lot Tour",
+        "description": "Visit a selection of Balinese temples on this full-day private tour that ends with a viewing of the sunset.",
         "sourceType": "image",
         "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
       },
 	  {
         "id": "day-4",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Ngurah Rai International Airport",
+        "title": "Uluwatu Tour",
+        "description": "Visit one of Bali's most famous surf spots at Padang Padang Beach",
         "sourceType": "image",
         "sourceMedia": "https://images.pexels.com/photos/1020016/pexels-photo-1020016.jpeg"
       },
 	  {
         "id": "day-5",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Ngurah Rai International Airport",
+        "title": "Bali Bird Park",
+        "description": "Bali Bird Park is a sanctuary for birds and a place where people can connect with nature.",
         "sourceType": "image",
         "sourceMedia": "https://images.pexels.com/photos/13449172/pexels-photo-13449172.jpeg"
-      },
-	  {
-        "id": "day-6",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Ngurah Rai International Airport",
-        "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
-      },
-	  {
-        "id": "day-7",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Ngurah Rai International Airport",
-        "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
-      },
-	  {
-        "id": "day-8",
-        "title": "Welcome in Bali",
-        "description": "Welcome to the Ngurah Rai International Airport",
-        "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
       }
     ]
   }
