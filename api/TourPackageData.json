@@ -213,7 +213,7 @@
                 "id": "bali_indonesia",
                 "country": "Indonesia",
                 "city": "Singapore",
-                "image": "https://images.pexels.com/photos/6195579/pexels-photo-6195579.jpeg"
+                "image": "https://images.pexels.com/photos/33843874/pexels-photo-33843874.jpeg"
               }
             ],
             "title": "Breakfast at kopitiam",
@@ -243,28 +243,13 @@
                 "id": "bali_indonesia",
                 "country": "Indonesia",
                 "city": "Bali",
-                "image": "https://images.pexels.com/photos/14334748/pexels-photo-14334748.jpeg"
+                "image": "https://images.pexels.com/photos/9689817/pexels-photo-9689817.jpeg"
               }
             ],
-            "title": "Pick up at Hotel",
-            "description": "Visit Ubud Sanctuary Monkey Forest",
-            "dateTime": "2025-08-22T9:00:00+05:30",
+            "title": "Garden by the Bay",
+            "description": "Discover this horticultural treasure trove with something for everyone! Set in the heart of Singapore's downtown",
+            "dateTime": "2025-08-22T14:00:00+05:30",
             "note": ""
-          },
-          {
-            "id": "day2_tl03",
-            "location": [
-              {
-                "id": "bali_indonesia",
-                "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/2325302/pexels-photo-2325302.jpeg"
-              }
-            ],
-            "title": "Breakfast and Coffee",
-            "description": "Break for herbal tea and try luwak coffee as the most expensive coffee that is made from civet cat feces",
-            "dateTime": "2025-08-22T10:00:00+05:30",
-            "note": "Swing activity is also available here"
           },
           {
             "id": "day2_tl04",
@@ -272,14 +257,14 @@
               {
                 "id": "bali_indonesia",
                 "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/2325302/pexels-photo-2325302.jpeg"
+                "city": "Singapore",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/singapore-art-museum.webp"
               }
             ],
-            "title": "Trekking",
-            "description": "Trekking at Tegalalang  Rice Terrace",
-            "dateTime": "2025-08-22T11:30:00+05:30",
-            "note": "This spot is the best for photography."
+            "title": "ArtScience Museum",
+            "description": "Break for herbal tea and try luwak coffee as the most expensive coffee that is made from civet cat feces",
+            "dateTime": "2025-08-22T16:00:00+05:30",
+            "note": "Swing activity is also available here"
           },
           {
             "id": "day2_tl05",
@@ -288,12 +273,27 @@
                 "id": "bali_indonesia",
                 "country": "Indonesia",
                 "city": "Bali",
-                "image": "https://images.pexels.com/photos/12061487/pexels-photo-12061487.jpeg"
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/singapore-night-safari.webp"
               }
             ],
-            "title": "Lunch at Kintamani Slop Cafe",
-            "description": "enjoying the breathtaking view of Batur Volcano caldera and the lake",
-            "dateTime": "2025-08-22T11:30:00+05:30",
+            "title": "Night Safari",
+            "description": "Witness the thrill of the animal kingdom come alive after sunset",
+            "dateTime": "2025-08-22T20:00:00+05:30",
+            "note": "This spot is the best for photography."
+          },
+          {
+            "id": "day2_tl06",
+            "location": [
+              {
+                "id": "bali_indonesia",
+                "country": "Indonesia",
+                "city": "Bali",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/dinner-at-natolia-restaurant-singapore.webp"
+              }
+            ],
+            "title": "Dinner at Anatolia Restaurant",
+            "description": "Discover a delicious menu of Lebanese, Arab, and Turkish dishes at Anatolia Restaurant on Arab Street.",
+            "dateTime": "2025-08-22T22:30:00+05:30",
             "note": ""
           }
         ]
