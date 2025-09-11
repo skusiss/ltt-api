@@ -447,27 +447,7 @@
             "note": ""
           }
         ]
-      },
-	  {
-		"id": "day-3",
-        "title": "Departure for IGI New Delhi",
-        "description": "Welcome to the city, check-in at hotel and freshen up.",
-	  },
-	  {
-		"id": "day-5",
-        "title": "Departure for IGI New Delhi",
-        "description": "Welcome to the city, check-in at hotel and freshen up.",
-	  },
-	  {
-		"id": "day-6",
-        "title": "Departure for IGI New Delhi",
-        "description": "Welcome to the city, check-in at hotel and freshen up.",
-	  },
-	  {
-		"id": "day-7",
-        "title": "Departure for IGI New Delhi",
-        "description": "Welcome to the city, check-in at hotel and freshen up.",
-	  }
+      }
     ]
   }
 ]
