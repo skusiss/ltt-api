@@ -350,7 +350,7 @@
         ]
       },
       {
-        "id": "day-2",
+        "id": "day-3",
         "title": "Welcome in Bali",
         "description": "Welcome to the Ngurah Rai International Airport",
         "sourceType": "image",
@@ -447,6 +447,48 @@
             "note": ""
           }
         ]
+      },
+	  {
+        "id": "day-3",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
+      },
+	  {
+        "id": "day-4",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
+      },
+	  {
+        "id": "day-5",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
+      },
+	  {
+        "id": "day-6",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
+      },
+	  {
+        "id": "day-7",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
+      },
+	  {
+        "id": "day-8",
+        "title": "Welcome in Bali",
+        "description": "Welcome to the Ngurah Rai International Airport",
+        "sourceType": "image",
+        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg"
       }
     ]
   }
