@@ -314,8 +314,8 @@
         "id": "day-1",
         "title": "Departure for IGI New Delhi",
         "description": "Welcome to the city, check-in at hotel and freshen up.",
-        "sourceType": "image",
-        "source": "https://images.pexels.com/photos/18567617/pexels-photo-18567617.jpeg",
+        "sourceType": "video",
+        "source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/delhi-flight.mp4",
         "timeLine": [
           {
             "id": "day1_tl01",
@@ -353,8 +353,8 @@
         "id": "day-2",
         "title": "Welcome in Bali",
         "description": "Welcome to the Ngurah Rai International Airport",
-        "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg",
+		"sourceType": "video",
+        "source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/bali-hotel-1.mp4",
         "timeLine": [
           {
             "id": "day2_tl01",
