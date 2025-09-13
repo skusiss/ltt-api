@@ -1,0 +1,39 @@
+[
+
+	{
+        "id": "destination",
+        "title": "destination",
+		"component": "Destination"
+    },
+	{
+        "id": "dutation",
+        "title": "dutation",
+		"component": "Dutation"
+    },
+	{
+        "id": "travellers",
+        "title": "Travellers",
+		"component": "Traveller"
+    },
+	{
+        "id": "vibes",
+        "title": "vibes",
+		"component": "Vibes"
+    },
+	{
+        "id": "budget",
+        "title": "budget",
+		"component": "Budget"
+    },
+	{
+        "id": "preferences",
+        "title": "Preferences",
+		"component": "Preferences"
+    },
+	{
+        "id": "nfo",
+        "title": "info",
+		"component": "Info"
+    }
+	
+]
