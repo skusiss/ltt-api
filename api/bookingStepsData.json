@@ -1,9 +1,9 @@
 [
 
 	{
-        "id": "destination",
-        "title": "destination",
-		"component": "Destination"
+        "id": "destinations",
+        "title": "destinations",
+		"component": "Destinations"
     },
 	{
         "id": "duration",
