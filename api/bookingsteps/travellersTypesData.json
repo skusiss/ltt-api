@@ -1,0 +1,22 @@
+[
+	{
+		"id":"solo",
+		"label":"Solo",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-solo.webp"
+	},
+	{
+		"id":"couple",
+		"label":"couple",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-couple.webp"
+	},
+	{
+		"id":"family",
+		"label":"Family",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-family.webp"
+	},
+	{
+		"id":"friends",
+		"label":"Friends",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-friends.webp"
+	},
+]
