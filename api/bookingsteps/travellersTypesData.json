@@ -1,86 +1,22 @@
 [
 	{
-		"id":"1",
-		"place":"Osaka",
-		"country":"Japan",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/japan.webp"
+		"id":"solo",
+		"label":"Solo",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-solo.webp"
 	},
 	{
-		"id":"2",
-		"place":"Dubai",
-		"country":"UAE",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/dubai.webp"
+		"id":"couple",
+		"label":"couple",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-couple.webp"
 	},
 	{
-		"id":"3",
-		"place":"Barcelona",
-		"country":"Spain",
-		"isFeatured":false,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/barcelona.webp"
+		"id":"family",
+		"label":"Family",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-family.webp"
 	},
 	{
-		"id":"4",
-		"place":"Bali",
-		"country":"Indonesia",
-		"isFeatured":false,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/bali.webp"
-	},
-	{
-		"id":"5",
-		"place":"Kuala Lumpur",
-		"country":"Malaysia",
-		"isFeatured":false,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/kuala-lumpur.webp"
-	},
-	{
-		"id":"6",
-		"place":"Bangkok",
-		"country":"Thailand",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/bangkok.webp"
-	},
-	{
-		"id":"7",
-		"place":"New York",
-		"country":"USA",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/newyork.webp"
-	},
-	{
-		"id":"8",
-		"place":"Paris",
-		"country":"France",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/paris.webp"
-	},
-	{
-		"id":"9",
-		"place":"Singapore",
-		"country":"Singapore",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/singapore.webp"
-	},
-	{
-		"id":"10",
-		"place":"Istanbul",
-		"country":"Turkey",
-		"isFeatured":false,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/istanbul.webp"
-	},
-	{
-		"id":"11",
-		"place":"Jaipur",
-		"country":"India",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/jaipur.webp"
-	},
-	{
-		"id":"12",
-		"place":"Goa",
-		"country":"India",
-		"isFeatured":true,
-		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/destinations/goa.webp"
-	},
+		"id":"friends",
+		"label":"Friends",
+		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-friends.webp"
+	}
 ]
