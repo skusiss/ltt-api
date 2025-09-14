@@ -1,22 +1,86 @@
 [
 	{
-		"id":"solo",
-		"label":"Solo",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-solo.webp"
+		"id":"1",
+		"place":"Osaka",
+		"country":"Japan",
+		"isFeatured":true,
+		"image":""
 	},
 	{
-		"id":"couple",
-		"label":"couple",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-couple.webp"
+		"id":"2",
+		"place":"Dubai",
+		"country":"UAE",
+		"isFeatured":true,
+		"image":""
 	},
 	{
-		"id":"family",
-		"label":"Family",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-family.webp"
+		"id":"3",
+		"place":"Barcelona",
+		"country":"Spain",
+		"isFeatured":false,
+		"image":""
 	},
 	{
-		"id":"friends",
-		"label":"Friends",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-friends.webp"
+		"id":"4",
+		"place":"Bali",
+		"country":"Indonesia",
+		"isFeatured":false,
+		"image":""
+	},
+	{
+		"id":"5",
+		"place":"Kuala Lumpur",
+		"country":"Malaysia",
+		"isFeatured":false,
+		"image":""
+	},
+	{
+		"id":"6",
+		"place":"Bangkok",
+		"country":"Thailand",
+		"isFeatured":true,
+		"image":""
+	},
+	{
+		"id":"8",
+		"place":"New York",
+		"country":"USA",
+		"isFeatured":true,
+		"image":""
+	},
+	{
+		"id":"9",
+		"place":"Paris",
+		"country":"France",
+		"isFeatured":true,
+		"image":""
+	},
+	{
+		"id":"10",
+		"place":"Singapore",
+		"country":"Singapore",
+		"isFeatured":true,
+		"image":""
+	},
+	{
+		"id":"11",
+		"place":"Istanbul",
+		"country":"Turkey",
+		"isFeatured":false,
+		"image":""
+	},
+	{
+		"id":"12",
+		"place":"Goa",
+		"country":"India",
+		"isFeatured":true,
+		"image":""
+	},
+	{
+		"id":"13",
+		"place":"Goa",
+		"country":"India",
+		"isFeatured":true,
+		"image":""
 	},
 ]
