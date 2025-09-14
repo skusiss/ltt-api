@@ -2,21 +2,25 @@
 	{
 		"id":"solo",
 		"label":"Solo",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-solo.webp"
+		"subText": "Going alone",
+		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/traveller-solo.webp"
 	},
 	{
 		"id":"couple",
 		"label":"couple",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-couple.webp"
+		"subText": "Loved one together",
+		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/traveller-couple.webp"
 	},
 	{
 		"id":"family",
 		"label":"Family",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-family.webp"
+		"subText": "Family vacation",
+		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/traveller-family.webp"
 	},
 	{
 		"id":"friends",
 		"label":"Friends",
-		"image":"https://github.com/skusiss/ltt-api/blob/main/assets/images/bookingsteps/traveller-friends.webp"
+		"subText": "Enjoy with friends",
+		"image":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/bookingsteps/traveller-friends.webp"
 	}
 ]
