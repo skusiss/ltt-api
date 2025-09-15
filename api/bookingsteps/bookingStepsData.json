@@ -1,5 +1,10 @@
 [
 	{
+        "id": "preferences",
+        "title": "Preferences",
+		"component": "Preferences"
+    },
+	{
         "id": "budget",
         "title": "budget",
 		"component": "Budget"
@@ -23,12 +28,6 @@
         "id": "vibes",
         "title": "vibes",
 		"component": "Vibes"
-    },
-	
-	{
-        "id": "preferences",
-        "title": "Preferences",
-		"component": "Preferences"
     },
 	{
         "id": "nfo",
