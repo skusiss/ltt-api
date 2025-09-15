@@ -1,15 +1,5 @@
 [
 	{
-        "id": "preferences",
-        "title": "Preferences",
-		"component": "Preferences"
-    },
-	{
-        "id": "budget",
-        "title": "budget",
-		"component": "Budget"
-    },
-	{
         "id": "destinations",
         "title": "destinations",
 		"component": "Destinations"
@@ -30,9 +20,18 @@
 		"component": "Vibes"
     },
 	{
+        "id": "budget",
+        "title": "budget",
+		"component": "Budget"
+    },
+	{
+        "id": "preferences",
+        "title": "Preferences",
+		"component": "Preferences"
+    },
+	{
         "id": "nfo",
         "title": "info",
 		"component": "Info"
     }
-	
 ]
