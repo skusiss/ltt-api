@@ -1,27 +1,27 @@
 [
     {
-        "id": 1,
+        "id": "cruise",
         "title": "Cruise",
         "caption": "Combining luxurious accommodations with the opportunity to explore multiple destinations.",
         "sourceType":"video",
 		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/cruise-dolphin.mp4"
     },
 	{
-        "id": 2,
+        "id": "safari",
         "title": "Safari",
         "caption": "Go on an exhilarating journey through wildlife reserves.",
         "sourceType":"video",
 		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/safari-trip.mp4"
     },
 	{
-        "id": 3,
+        "id": "private_jet",
         "title": "Private Jet",
         "caption": "Exclusive and luxurious travel experience",
         "sourceType":"image",
 		"source": "https://images.pexels.com/photos/5778614/pexels-photo-5778614.jpeg"
     },
 	{
-        "id": 4,
+	"id": "tailored_packages",
         "title": "Tailored Packages",
         "caption": "Luxury travel solutions customized to fit your desires & budget.",
         "sourceType":"image",
