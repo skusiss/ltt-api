@@ -11,6 +11,7 @@
     "days": [
       {
         "id": "day-1",
+		"dateTime": "2025-08-21T16:35:00+05:30",
         "title": "Departure for IGI New Delhi",
         "description": "Welcome to the city, check-in at hotel and freshen up.",
         "sourceType": "image",
@@ -50,7 +51,7 @@
       },
       {
         "id": "day-2",
-		
+		"dateTime": "2025-08-22T16:35:00+05:30",
         "title": "Welcome in Dubai",
         "description": "Dubai International Airport",
         "sourceType": "image",
@@ -162,6 +163,7 @@
     "days": [
       {
         "id": "day-1",
+		"dateTime": "2025-08-21T16:35:00+05:30",
         "title": "Departure for IGI New Delhi",
         "description": "Welcome to the city, check-in at hotel and freshen up.",
         "sourceType": "image",
@@ -201,6 +203,7 @@
       },
       {
         "id": "day-2",
+		"dateTime": "2025-08-22T16:35:00+05:30",
         "title": "Universal Studio Time!!!!!",
         "description": "Today enjoy a day at Universal Studio where one can enjoy meet and interact with many movie characters, talk with a donkey, enjoy Shrek 4D adventures, enjoy action at Jurassic Park, thrilling rides, entertainment shows. Later you will be dropped back to your hotel. Overnight at Singapore.",
         "sourceType": "image",
@@ -312,6 +315,7 @@
     "days": [
       {
         "id": "day-1",
+		"dateTime": "2025-08-21T16:35:00+05:30",
         "title": "Departure for IGI New Delhi",
         "description": "Welcome to the city, check-in at hotel and freshen up.",
         "sourceType": "video",
@@ -351,6 +355,7 @@
       },
       {
         "id": "day-2",
+		"dateTime": "2025-08-22T16:35:00+05:30",
         "title": "Welcome in Bali",
         "description": "Enjoye rare fusion of stunning natural beauty, vibrant culture, traditional healing process, and many more.",
 		"sourceType": "video",
@@ -450,6 +455,7 @@
       },
 	  {
         "id": "day-3",
+		"dateTime": "2025-08-23T16:35:00+05:30",
         "title": "Beratan Lake, Ulundanu Temple and Tanah Lot Tour",
         "description": "Visit a selection of Balinese temples on this full-day private tour that ends with a viewing of the sunset.",
         "sourceType": "image",
@@ -457,6 +463,7 @@
       },
 	  {
         "id": "day-4",
+		"dateTime": "2025-08-24T16:35:00+05:30",
         "title": "Uluwatu Tour",
         "description": "Visit one of Bali's most famous surf spots at Padang Padang Beach",
         "sourceType": "image",
@@ -464,6 +471,7 @@
       },
 	  {
         "id": "day-5",
+		"dateTime": "2025-08-25T16:35:00+05:30",
         "title": "Bali Bird Park",
         "description": "Bali Bird Park is a sanctuary for birds and a place where people can connect with nature.",
         "sourceType": "image",
