@@ -1,10 +1,5 @@
 [
 	{
-        "id": "nfo",
-        "title": "info",
-		"component": "Info"
-    },
-	{
         "id": "destinations",
         "title": "destinations",
 		"component": "Destinations"
@@ -33,5 +28,10 @@
         "id": "preferences",
         "title": "Preferences",
 		"component": "Preferences"
+    },
+	{
+        "id": "info",
+        "title": "info",
+		"component": "Info"
     }
 ]
