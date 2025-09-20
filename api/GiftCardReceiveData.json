@@ -3,23 +3,22 @@
     "id": 1,
     "receivedOn": "2025-08-21T20:20:00+05:30",
     "currency": "inr",
-    "amount":"175000",
-	"currentStatus":"Reedeem",
-	"senderName":"Rahul Bhargav",
-	"senderEmail":"rahul_bhargav@gmail.com",
-	"usedOn":"2025-08-24T7:20:00+05:30",
-	"reedeemAmount":"150000"
+    "amount": "175000",
+    "currentStatus": "Reedeem",
+    "senderName": "Rahul Bhargav",
+    "senderEmail": "rahul_bhargav@gmail.com",
+    "usedOn": "2025-08-24T7:20:00+05:30",
+    "reedeemAmount": "150000"
   },
   {
     "id": 2,
     "receivedOn": "2025-08-21T20:20:00+05:30",
     "currency": "inr",
-    "amount":"500000",
-	"currentStatus":"not used",
-	"senderName":"Jyoti",
-	"senderEmail":"jyoti@yahoo.com",
-	"usedOn":"",
-	"reedeemAmount":""
+    "amount": "500000",
+    "currentStatus": "not used",
+    "senderName": "Jyoti",
+    "senderEmail": "jyoti@yahoo.com",
+    "usedOn": "",
+    "reedeemAmount": ""
   }
 ]
-
