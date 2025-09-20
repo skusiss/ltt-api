@@ -9,7 +9,7 @@
 	"mobileNumber":"9560246999",
 	"hasMobile":true,
     "email": "skusiss@gmail.com",
-	"isValidated":true,
+	"isEmailValidated":true,
     "password": "sk@1234",
 	"tier": 2
   },
@@ -23,7 +23,7 @@
 	"mobileNumber":"9560246999",
 	"hasMobile":false,
     "email": "jaya@gmail.com",
-	"isValidated":false,
+	"isEmailValidated":false,
     "password": "jp@1234",
 	"tier": 1
   },
@@ -37,7 +37,7 @@
 	"mobileNumber":"9560246999",
 	"hasMobile":false,
     "email": "skusissmorni@gmail.com",
-	"isValidated":false,
+	"isEmailValidated":false,
     "password": "sk@1234",
 	"tier": 3
   },
@@ -51,7 +51,7 @@
 	"mobileNumber":"9818371449",
 	"hasMobile":true,
     "email": "saniya@gmail.com",
-	"isValidated":true,
+	"isEmailValidated":true,
     "password": "sp@1234",
 	"tier": 3
   }
