@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "dateTime": "2025-08-21T20:20:00+05:30",
+    "currency": "inr",
+    "amount":"100000",
+	"currentStatus":"underProcess",
+	"usedBy":"",
+	"usedOn":"",
+  },
+  {
+    "id": 2,
+    "dateTime": "2025-06-18T8:32:16+05:30",
+    "currency": "inr",
+    "amount":"1500000",
+	"currentStatus":"Reedeem",
+	"usedBy":"Geeta Soni"
+	"usedOn":"2025-07-25T19:48:00+05:30",
+  }
+]
+
