@@ -64,10 +64,10 @@
                 "id": "dubai_uae",
                 "country": "UAE",
                 "city": "Dubai",
-                "image": "https://images.pexels.com/photos/6195579/pexels-photo-6195579.jpeg"
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/dubai-airport.webp"
               }
             ],
-            "title": "Dubai Airport",
+            "title": "Dubai Inernational Airport",
             "description": "Pick up at the airport and drop to Hotel",
             "dateTime": "2025-08-22T4:30:00+05:30",
             "note": ""
@@ -76,14 +76,14 @@
             "id": "day2_tl02",
             "location": [
               {
-                "id": "bali_indonesia",
-                "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/15034909/pexels-photo-15034909.jpeg"
+                "id": "dubai_uae",
+                "country": "dubai",
+                "city": "dubai",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/grand-hyatt-dubai.webp"
               }
             ],
             "title": "Hotel Check-in",
-            "description": "Hyatt Hotel.",
+            "description": "Grand Hyatt Dubai",
             "dateTime": "2025-08-22T5:10:00+05:30",
             "note": ""
           },
@@ -91,25 +91,25 @@
             "id": "day2_tl03",
             "location": [
               {
-                "id": "bali_indonesia",
-                "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/14334748/pexels-photo-14334748.jpeg"
+                "id": "dubai_uae",
+                "country": "dubai",
+                "city": "dubai",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/palm-jumeriah-cafe.webp"
               }
             ],
-            "title": "Pick up at Hotel",
-            "description": "Visit Ubud Sanctuary Monkey Forest",
+            "title": "Breakfast at Palm Jumeirah Cafe",
+            "description": "Try delicious artisanal pastries, our coffee and tea selection, and our wide range of café-style food",
             "dateTime": "2025-08-22T9:00:00+05:30",
             "note": ""
           },
           {
-            "id": "day2_tl03",
+            "id": "day2_tl04",
             "location": [
               {
-                "id": "bali_indonesia",
-                "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/2325302/pexels-photo-2325302.jpeg"
+                "id": "dubai_uae",
+                "country": "dubai",
+                "city": "dubai",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/grand-hyatt-dubai.webp"
               }
             ],
             "title": "Breakfast and Coffee",
@@ -118,33 +118,33 @@
             "note": "Swing activity is also available here"
           },
           {
-            "id": "day2_tl04",
+            "id": "day2_tl05",
             "location": [
               {
-                "id": "bali_indonesia",
-                "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/2325302/pexels-photo-2325302.jpeg"
+                "id": "dubai_uae",
+                "country": "dubai",
+                "city": "dubai",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/burj-khalifa.webp"
               }
             ],
-            "title": "Trekking",
-            "description": "Trekking at Tegalalang  Rice Terrace",
+            "title": "Visit Burj Khalifa",
+            "description": "Discover the Burj Khalifa, Dubai's iconic skyscraper. Explore breathtaking views, dining experiences, and more exclusive attractions",
             "dateTime": "2025-08-22T11:30:00+05:30",
             "note": "This spot is the best for photography."
           },
           {
-            "id": "day2_tl05",
+            "id": "day2_tl06",
             "location": [
               {
-                "id": "bali_indonesia",
-                "country": "Indonesia",
-                "city": "Bali",
-                "image": "https://images.pexels.com/photos/12061487/pexels-photo-12061487.jpeg"
+                "id": "dubai_uae",
+                "country": "dubai",
+                "city": "dubai",
+                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/burj-khalifa.webp"
               }
             ],
-            "title": "Lunch at Kintamani Slop Cafe",
-            "description": "enjoying the breathtaking view of Batur Volcano caldera and the lake",
-            "dateTime": "2025-08-22T11:30:00+05:30",
+            "title": "Lunch at Reef & Beef",
+            "description": "Premium beef steaks and fresh seafood meet in perfect harmony",
+            "dateTime": "2025-08-22T13:30:00+05:30",
             "note": ""
           }
         ]
