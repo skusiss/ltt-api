@@ -109,21 +109,6 @@
                 "id": "dubai_uae",
                 "country": "dubai",
                 "city": "dubai",
-                "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/grand-hyatt-dubai.webp"
-              }
-            ],
-            "title": "Breakfast and Coffee",
-            "description": "Break for herbal tea and try luwak coffee as the most expensive coffee that is made from civet cat feces",
-            "dateTime": "2025-08-22T10:00:00+05:30",
-            "note": "Swing activity is also available here"
-          },
-          {
-            "id": "day2_tl05",
-            "location": [
-              {
-                "id": "dubai_uae",
-                "country": "dubai",
-                "city": "dubai",
                 "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/burj-khalifa.webp"
               }
             ],
@@ -133,7 +118,7 @@
             "note": "This spot is the best for photography."
           },
           {
-            "id": "day2_tl06",
+            "id": "day2_tl05",
             "location": [
               {
                 "id": "dubai_uae",
