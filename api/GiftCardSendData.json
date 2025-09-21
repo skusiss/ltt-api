@@ -11,7 +11,7 @@
   {
     "id": 2,
     "dateTime": "2025-06-18T8:32:16+05:30",
-    "currency": "use",
+    "currency": "usd",
     "amount": "20000",
     "currentStatus": "Purchased",
     "usedBy": "Geeta Soni",
