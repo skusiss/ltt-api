@@ -55,7 +55,7 @@
         "title": "Welcome in Dubai",
         "description": "Dubai International Airport",
         "sourceType": "image",
-        "sourceMedia": "https://images.pexels.com/photos/2166559/pexels-photo-2166559.jpeg",
+        "sourceMedia": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/dubai-thumb.webp",
         "timeLine": [
           {
             "id": "day2_tl01",
