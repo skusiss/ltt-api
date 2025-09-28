@@ -1,12 +1,37 @@
 [
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg1.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg2.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg3.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg4.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg5.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg6.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg7.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg8.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg9.webp" },
-  { "image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg10.webp" }
+	{ 
+		"id":1,
+		"title":"Enjoy in boat",
+		"caption": "",
+		"sourceType": "image",
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg1.webp"
+	},
+	{ 
+		"id":2,
+		"title":"Enjoy in beach",
+		"caption": "",
+		"sourceType": "image",
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg2.webp"
+	},
+	{ 
+		"id":3,
+		"title":"Couple relax on the beach",
+		"caption": "",
+		"sourceType": "image",
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg3.webp"
+	},
+	{ 
+		"id":4,
+		"title":"Dancing on the road",
+		"caption": "",
+		"sourceType": "image",
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg5.webp"
+	},
+	{ 
+		"id":5,
+		"title":"Yatch riding",
+		"caption": "",
+		"sourceType": "image",
+		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg6.webp"
+	}
 ]
