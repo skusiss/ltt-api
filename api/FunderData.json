@@ -1,0 +1,11 @@
+[
+	{ 
+		"id":1,
+		"name":"Saniya Puri",
+		"position": "Director, Founder & Chief Adventurer",
+		"profileImg": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/users/saniya.webp",
+		"shortBio": "As the driving force behind LivetoTravel, Saniya Puri's passion for exploration and her vision for immersive travel experiences have shaped the essence of our company. Her journey began with a simple backpack and an insatiable curiosity about the world.",
+		"introVideo":"https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/videos/travelbout.mp4",
+		"meetTheFounder":"As the driving force behind LivetoTravel, Saniya Puri's passion for exploration and her vision for immersive travel experiences have shaped the essence of our company. Her journey began with a simple backpack and an insatiable curiosity about the world."
+	}
+]
