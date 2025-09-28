@@ -3,24 +3,28 @@
     "id": 1,
     "slug":"zee_news",
     "name":"zee news",
+	"isFeatured":false,
     "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/zee-news.webp"
   },
   {
     "id": 2,
     "slug":"news_18",
     "name":"News 18",
+	"isFeatured":false,
     "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/news-india-18.webp"
   },
   {
     "id": 3,
     "slug":"toi",
     "name":"TOI",
+	"isFeatured":false,
     "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/toi.webp"
   },
   {
     "id": 4,
     "slug":"hello_enterpreneurs",
     "name":"hello enterpreneurs",
+	"isFeatured":false,
     "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/hello_enterpreneurs.webp"
   },
   {
@@ -33,6 +37,7 @@
     "id": 6,
     "slug":"startupindia",
     "name":"startupindia",
+	"isFeatured":true,
     "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/medialogo/startupindia.webp"
   }
 ]
