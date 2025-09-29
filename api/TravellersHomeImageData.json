@@ -2,26 +2,26 @@
 	{ 
 		"id":1,
 		"title":"Enjoy in boat",
-		"img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg1.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg1.webp"
 	},
 	{ 
 		"id":2,
 		"title":"Enjoy in beach",
-		"img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg2.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg2.webp"
 	},
 	{ 
 		"id":3,
 		"title":"Couple relax on the beach",
-		"img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg3.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg3.webp"
 	},
 	{ 
 		"id":4,
 		"title":"Dancing on the road",
-		"img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg5.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg5.webp"
 	},
 	{ 
 		"id":5,
 		"title":"Yatch riding",
-		"img": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg6.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/timg6.webp"
 	}
 ]
