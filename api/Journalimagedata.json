@@ -2,22 +2,16 @@
 	{ 
 		"id":1,
 		"title":"Beach pool",
-		"caption": "",
-		"sourceType": "image",
-		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/tsqimg1.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/tsqimg1.webp"
 	},
 	{ 
 		"id":2,
 		"title":"Selfie at Eiffel Tower",
-		"caption": "",
-		"sourceType": "image",
-		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/tsqimg2.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/tsqimg2.webp"
 	},
 	{ 
 		"id":3,
 		"title":"Couple happy moment",
-		"caption": "",
-		"sourceType": "image",
-		"source": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/tsqimg3.webp"
+		"image": "https://raw.githubusercontent.com/skusiss/ltt-api/main/assets/images/travellers/tsqimg3.webp"
 	}
 ]
