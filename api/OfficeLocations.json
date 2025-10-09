@@ -1,31 +1,41 @@
 [
     {
         "id": "01",
-        "name": "India",
+        "country": "India",
+		latitude:"",
+		longitude:"",
         "address": "Vasant Kunj, New Delhi",
         "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/locations/delhi.webp"
     },
     {
         "id": "02",
-        "name": "UAE",
+        "country": "UAE",
+		latitude:"",
+		longitude:"",
         "address": "Bay Square, Building 4, 2nd Floor- Dubai",
         "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/locations/uae.webp"
     },
     {
         "id": "03",
-        "name": "UK",
+        "country": "UK",
+		latitude:"",
+		longitude:"",
         "address": "5 Piccadilly Pl, Aytoun St, Manchester M1 3BR",
         "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/locations/uk.webp"
     },
     {
         "id": "04",
-        "name": "USA",
+        "country": "USA",
+		latitude:"",
+		longitude:"",
         "address": "524 Broadway, New York, NY 10012",
         "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/locations/usa-ny.webp"
     },
     {
         "id": "05",
-        "name": "USA",
+        "country": "USA",
+		latitude:"",
+		longitude:"",
         "address": "245 Riverside Ave Suite 100, Jacksonville, FL 32202",
         "image": "https://raw.githubusercontent.com/skusiss/ltt-api/refs/heads/main/assets/images/locations/usa-fl.webp"
     }
