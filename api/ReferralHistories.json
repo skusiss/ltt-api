@@ -2,7 +2,7 @@
   {
     "id": 1,
     "status": "Booked",
-    "fullName": "Gaurav Ranjan",
+    "name": "Gaurav Ranjan",
     "sentOn": "2025-08-22T11:24:00+05:30",
     "acceptedOn": "2025-08-24T18:48:00+05:30",
     "firstBookedOn": "2025-08-25T22:34:00+05:30",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "status": "Booked",
-    "fullName": "Soumaya Sharma",
+    "name": "Soumaya Sharma",
     "sentOn": "2025-07-10T16:32:00+05:30",
     "acceptedOn": "2025-07-10T19:31:00+05:30",
     "firstBookedOn": "2025-08-11T14:59:00+05:30",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "status": "Registered",
-    "fullName": "Ravi Malhotra",
+    "name": "Ravi Malhotra",
     "sentOn": "2025-07-09T11:16:00+05:30",
     "acceptedOn": "2025-07-09T19:31:00+05:30",
     "firstBookedOn": "2025-08-09T22:37:00+05:30",
