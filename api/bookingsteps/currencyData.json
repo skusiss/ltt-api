@@ -1,0 +1,26 @@
+[
+  {
+    "id": "inr",
+    "label": "₹ INR",
+    "min": 50000,
+    "max": 5050000,
+    "initialMin": 200000,
+    "initialMax": 4000000
+  },
+  {
+    "id": "usd",
+    "label": "$ USD",
+    "min": 1000,
+    "max": 50000,
+    "initialMin": 1500,
+    "initialMax": 50000
+  },
+  {
+    "id": "euro",
+    "label": "€ Euro",
+    "min": 1000,
+    "max": 50000,
+    "initialMin": 1500,
+    "initialMax": 50000
+  }
+]
