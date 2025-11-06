@@ -5,7 +5,8 @@
     "min": 50000,
     "max": 5050000,
     "initialMin": 200000,
-    "initialMax": 4000000
+    "initialMax": 4000000,
+    "stepValue": 100000
   },
   {
     "id": "usd",
@@ -13,7 +14,8 @@
     "min": 1000,
     "max": 50000,
     "initialMin": 1500,
-    "initialMax": 50000
+    "initialMax": 50000,
+    "stepValue": 1000
   },
   {
     "id": "euro",
@@ -21,6 +23,7 @@
     "min": 1000,
     "max": 50000,
     "initialMin": 1500,
-    "initialMax": 50000
+    "initialMax": 50000,
+    "stepValue": 1000
   }
 ]
