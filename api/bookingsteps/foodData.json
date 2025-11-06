@@ -1,14 +1,5 @@
 [
-    {
-        "id": "food_veg",
-        "label": "Veg"
-    },
-    {
-        "id": "food_nonveg",
-        "label": "Non-Veg"
-    },
-    {
-        "id": "food_any",
-        " label": "Any"
-    }
+  { "id": "food_veg", "label": "Veg" },
+  { "id": "food_nonveg", "label": "Non-Veg" },
+  { "id": "food_any", "label": "Any" }
 ]

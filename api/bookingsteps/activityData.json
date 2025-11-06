@@ -1,18 +1,6 @@
 [
-    {
-        "id": "activity_swimmingpool",
-        "label": "Swimming Pool"
-    },
-    {
-        "id": "activity_bathtub",
-        "label": "Bathtubs"
-    },
-    {
-        "id": "activity_shopping",
-        " label": "Time for shopping"
-    },
-    {
-        "id": "activity_other",
-        "label": "Other"
-    }
+  { "id": "activity_swimmingpool", "label": "Swimming Pool" },
+  { "id": "activity_bathtub", "label": "Bathtubs" },
+  { "id": "activity_shopping", "label": "Time for shopping" },
+  { "id": "activity_other", "label": "Other" }
 ]

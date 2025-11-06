@@ -1,18 +1,6 @@
 [
-    {
-        "id": "restriction_nocompactseating",
-        "label": "No compact seating on flights"
-    },
-    {
-        "id": "restriction_motion",
-        "label": "Motion Sickness"
-    },
-    {
-        "id": "restriction_none",
-        " label": "None"
-    },
-    {
-        "id": "restriction_other",
-        "label": "Other"
-    }
+  { "id": "restriction_nocompactseating", "label": "No compact seating on flights" },
+  { "id": "restriction_motion", "label": "Motion Sickness" },
+  { "id": "restriction_none", "label": "None" },
+  { "id": "restriction_other", "label": "Other" }
 ]
