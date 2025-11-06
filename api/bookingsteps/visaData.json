@@ -1,0 +1,18 @@
+[
+    {
+        "id": "visa_yes",
+        "label": "Yes"
+    },
+    {
+        "id": "visa_no",
+        "label": "No"
+    },
+    {
+        "id": "visa_other",
+        " label": "Other"
+    },
+    {
+        "id": "restriction_other",
+        "label": "Other"
+    }
+]
