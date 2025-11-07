@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "dateTime": "2025-08-21T20:20:00+05:30",
+    "currency": "inr",
+    "amount": "100000",
+    "currentStatus": "Under Process"
+  },
+  {
+    "id": 2,
+    "dateTime": "2025-06-18T8:32:16+05:30",
+    "currency": "usd",
+    "amount": "20000",
+    "currentStatus": "Purchased"
+  },
+  {
+    "id": 3,
+    "dateTime": "2025-06-18T8:32:16+05:30",
+    "currency": "inr",
+    "amount": "350000",
+    "currentStatus": "Purchased"
+  },
+  {
+    "id": 4,
+    "dateTime": "2025-06-18T8:32:16+05:30",
+    "currency": "usd",
+    "amount": "20000",
+    "currentStatus": "Purchased"
+  },
+  {
+    "id": 5,
+    "dateTime": "2025-06-18T8:32:16+05:30",
+    "currency": "euro",
+    "amount": "4500",
+    "currentStatus": "Under Process"
+  }
+]
