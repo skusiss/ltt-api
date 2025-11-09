@@ -1,37 +1,37 @@
 [
-	{
-        "id": "destinations",
-        "title": "destinations",
-		"component": "Destinations"
-    },
-	{
-        "id": "duration",
-        "title": "duration",
-		"component": "Duration"
-    },
-	{
-        "id": "travellers",
-        "title": "Travellers",
-		"component": "Travellers"
-    },
-	{
-        "id": "vibes",
-        "title": "vibes",
-		"component": "Vibes"
-    },
-	{
-        "id": "budget",
-        "title": "budget",
-		"component": "Budget"
-    },
-	{
-        "id": "preferences",
-        "title": "Preferences",
-		"component": "Preferences"
-    },
-	{
-        "id": "info",
-        "title": "info",
-		"component": "Info"
-    }
+  {
+    "id": "destinations",
+    "title": "Destinations",
+    "component": "Destinations"
+  },
+  {
+    "id": "duration",
+    "title": "Duration",
+    "component": "Duration"
+  },
+  {
+    "id": "travellers",
+    "title": "Travellers",
+    "component": "Travellers"
+  },
+  {
+    "id": "vibes",
+    "title": "Vibes",
+    "component": "Vibes"
+  },
+  {
+    "id": "budget",
+    "title": "Budget",
+    "component": "Budget"
+  },
+  {
+    "id": "preferences",
+    "title": "Preferences",
+    "component": "Preferences"
+  },
+  {
+    "id": "info",
+    "title": "Info",
+    "component": "Info"
+  }
 ]
