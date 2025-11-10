@@ -1,0 +1,5 @@
+[
+  { "id": "INR", "label": "₹ INR", "min": 50000, "max": 1000000, "initialMin": 50000, "initialMax": 1000000, "step": 50000 },
+  { "id": "USD", "label": "$ USD", "min": 1000, "max": 10000, "initialMin": 1000, "initialMax": 10000, "step": 1000 },
+  { "id": "EURO", "label": "€ Euro", "min": 1000, "max": 10000, "initialMin": 1000, "initialMax": 10000, "step": 1000 }
+]
