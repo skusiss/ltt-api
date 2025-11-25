@@ -50,6 +50,11 @@
         "code": "FR"
     },
     {
+        "name": "United Arab Emirates",
+        "dial_code": "+971",
+        "code": "AE"
+    },
+    {
         "name": "Greece",
         "dial_code": "+30",
         "code": "GR"
@@ -110,6 +115,11 @@
         "code": "NO"
     },
     {
+        "name": "Uzbekistan",
+        "dial_code": "+998",
+        "code": "UZ"
+    },
+    {
         "name": "Myanmar",
         "dial_code": "+95",
         "code": "MM"
@@ -150,14 +160,39 @@
         "code": "OM"
     },
     {
+        "name": "Peru",
+        "dial_code": "+51",
+        "code": "PE"
+    },
+    {
         "name": "Brazil",
         "dial_code": "+55",
         "code": "BR"
     },
     {
+        "name": "United Kingdom",
+        "dial_code": "+44",
+        "code": "GB"
+    },
+    {
+        "name": "United States",
+        "dial_code": "+1",
+        "code": "US"
+    },
+    {
+        "name": "Cyprus",
+        "dial_code": "+357",
+        "code": "CY"
+    },
+    {
         "name": "Qatar",
         "dial_code": "+974",
         "code": "QA"
+    },
+    {
+        "name": "Colombia",
+        "dial_code": "+57",
+        "code": "CO"
     },
     {
         "name": "Albania",
@@ -238,6 +273,11 @@
         "name": "Barbados",
         "dial_code": "+1246",
         "code": "BB"
+    },
+    {
+        "name": "South Africa",
+        "dial_code": "+27",
+        "code": "ZA"
     },
     {
         "name": "Belarus",
@@ -360,11 +400,6 @@
         "code": "CC"
     },
     {
-        "name": "Colombia",
-        "dial_code": "+57",
-        "code": "CO"
-    },
-    {
         "name": "Comoros",
         "dial_code": "+269",
         "code": "KM"
@@ -403,11 +438,6 @@
         "name": "Cuba",
         "dial_code": "+53",
         "code": "CU"
-    },
-    {
-        "name": "Cyprus",
-        "dial_code": "+357",
-        "code": "CY"
     },
     {
         "name": "Czech Republic",
@@ -599,7 +629,6 @@
         "dial_code": "+354",
         "code": "IS"
     },
-    
     {
         "name": "Iran, Islamic Republic of Persian Gulf",
         "dial_code": "+98",
@@ -770,7 +799,6 @@
         "dial_code": "+262",
         "code": "YT"
     },
-    
     {
         "name": "Micronesia, Federated States of Micronesia",
         "dial_code": "+691",
@@ -890,11 +918,6 @@
         "name": "Paraguay",
         "dial_code": "+595",
         "code": "PY"
-    },
-    {
-        "name": "Peru",
-        "dial_code": "+51",
-        "code": "PE"
     },
     {
         "name": "Philippines",
@@ -1027,11 +1050,6 @@
         "code": "SO"
     },
     {
-        "name": "South Africa",
-        "dial_code": "+27",
-        "code": "ZA"
-    },
-    {
         "name": "South Sudan",
         "dial_code": "+211",
         "code": "SS"
@@ -1146,30 +1164,12 @@
         "dial_code": "+380",
         "code": "UA"
     },
-    {
-        "name": "United Arab Emirates",
-        "dial_code": "+971",
-        "code": "AE"
-    },
-    {
-        "name": "United Kingdom",
-        "dial_code": "+44",
-        "code": "GB"
-    },
-    {
-        "name": "United States",
-        "dial_code": "+1",
-        "code": "US"
-    },
+    
+    
     {
         "name": "Uruguay",
         "dial_code": "+598",
         "code": "UY"
-    },
-    {
-        "name": "Uzbekistan",
-        "dial_code": "+998",
-        "code": "UZ"
     },
     {
         "name": "Vanuatu",
