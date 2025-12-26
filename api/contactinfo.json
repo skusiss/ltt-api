@@ -1,6 +1,7 @@
-{ 
-	"id":1,
-	"countryCode":"+91",
-	"mobile":"9818371449",
-	"email": "contactus@livetotravel.co.in"
+{
+  "contact": {
+    "countryCode": "+91",
+    "phone": "9818371449",
+	"email":"contactus@livetotravel.co.in"
+  }
 }
