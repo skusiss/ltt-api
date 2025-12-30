@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "About",
+    "link":"https://www.livetotravel.co.in/about"
+  },
+  {
+    "id": 2,
+    "title": "Terms and Conditions",
+    "link":"https://www.livetotravel.co.in/terms-and-conditions"
+  },
+  {
+    "id": 3,
+    "title": "Privacy Policy",
+    "link":"https://www.livetotravel.co.in/privacy-policy"
+  },
+]
+
