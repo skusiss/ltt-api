@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Facebook",
+		"icon":"FacebookIcon",
+        "link": "https://www.facebook.com/livetotravel.saniyapuri?mibextid=LQQJ4d"
+    },
+    {
+        "id": 2,
+        "title": "Instagram",
+		"icon":"InstaIcon",
+        "link": "https://www.instagram.com/livetotravel_atravelboutique/"
+    },
+    {
+        "id": 3,
+        "title": "YouTube",
+		"icon":"YoutubeIcon",
+        "link": "https://www.youtube.com/@LivetoTravelbySaniyaPuri"
+    },
+	{
+        "id": 4,
+        "title": "LinkedIn",
+		"icon":"LinkedinIcon",
+        "link": "https://www.linkedin.com/in/saniya-puri-897815181"
+    }
+]
