@@ -30,6 +30,11 @@
     "component": "Preferences"
   },
   {
+    "id": "offers",
+    "title": "Offers",
+    "component": "Offers"
+  },
+  {
     "id": "info",
     "title": "Info",
     "component": "Info"
