@@ -1,6 +1,5 @@
-[
-  {
-    "amount": 1000,
-    "pointSlab": 50
-  }
-]
+{
+	"redeemPoint": 1000,
+	"redeemSlab": 50,
+	"redeemCurrency": "INR"
+}
