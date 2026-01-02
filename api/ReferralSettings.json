@@ -1,5 +1,5 @@
 {
 	"redeemPoint": 1000,
-	"redeemSlab": 50,
+	"redeemSlab": 10,
 	"redeemCurrency": "INR"
 }
